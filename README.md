@@ -1,29 +1,33 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Juan David Ospina Villalobos
+**Profesión:** _Analisis y Desarrollo de software_
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **Email:** [ospinavillalobosjuandavid170@gmail.com](ospinavillalobosjuandavid170@gmail.com)
+
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
-
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **SENA** _(2025 - Actualidad  )_
+- SQL, Power BI
+  
+  
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **SENA** _(2023_2024)_
+- HTML, Java ScripT, PQRs.
+## _(2025 - EL ensueño)_
+- Bachiller
+- Tecnico en Desarrollo de Programación de Aplicaciones Móviles  
 
 ## 💡 Habilidades
 - **Habilidad 1**
+- Resolución de problemas 
 - **Habilidad 2**
+- Pruebas y Validación
 - **Habilidad 3**
+- Pensamiento Critico
 
 ---
 
