@@ -6,6 +6,7 @@
 
 ## 📞 Contacto
 - **Email:** [ospinavillalobosjuandavid170@gmail.com](ospinavillalobosjuandavid170@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/](https://www.linkedin.com/)
 
 
 ## 🏢 Experiencia Laboral
