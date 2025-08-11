@@ -22,12 +22,20 @@
 - Tecnico en Desarrollo de Programación de Aplicaciones Móviles  
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- Resolución de problemas 
-- **Habilidad 2**
-- Pruebas y Validación
-- **Habilidad 3**
-- Pensamiento Critico
+-Juan David Ospina es un desarrollador con habilidades y competencias destacadas en varias áreas. A continuación, se presentan sus fortalezas y áreas de mejora:
+
+*Fortalezas:*
+
+1. *Resolución de problemas*: Juan David demuestra habilidad para diagnosticar y resolver problemas complejos de manera efectiva.
+2. *Análisis y planificación*: Puede analizar situaciones, planificar y documentar antes de escribir código, lo que demuestra una metodología ordenada y estructurada.
+3. *Trabajo en equipo*: Juan David puede descomponer proyectos, identificar dependencias y establecer comunicación efectiva para distribuir tareas, lo que muestra habilidad para trabajar en equipo.
+4. *Desarrollo de backend*: Demuestra habilidades en el desarrollo de backend con tecnologías como FastAPI y la gestión de integraciones con otros agentes.
+5. *Control de calidad*: Puede documentar fallos, realizar correcciones y verificar soluciones, asegurando trazabilidad y calidad en el desarrollo.
+6. *Comunicación efectiva*: Juan David puede comunicarse de manera clara y concisa con equipos y audiencias, adaptando su mensaje según sea necesario.
+7. *Innovación y creatividad*: Fomenta discusiones para enriquecer ideas y muestra una mentalidad innovadora y creativa en el desarrollo de soluciones.
+
+
+En general, Juan David muestra un gran potencial y una actitud positiva hacia el aprendizaje y la mejora continua. Con sus habilidades en resolución de problemas, análisis y planificación, y trabajo en equipo, Juan David está bien posicionado para crecer y desarrollarse como desarrollador.
 
 ---
 
