@@ -16,11 +16,11 @@
 ## 🎓 Educación
 ### **SENA** _(2023_2024)_
 - HTML, Java ScripT, PQRs.
-## _(2025 )_
-- Bachiller( El Ensueño)
-- Tecnico en Desarrollo de Programación de Aplicaciones Móviles
+## _(SENA 2025 )_
 - Aprendiz Analisis y Desarrollo de Software
-
+## _ El Ensueño( 2025 )_
+-Bachiller
+-Tecnico Desarrollo de Aplicación de Aplcaciones Móviles
 ## 💡 Habilidades
 -Juan David Ospina es un desarrollador con habilidades y competencias destacadas en varias áreas. A continuación, se presentan sus fortalezas y áreas de mejora:
 
