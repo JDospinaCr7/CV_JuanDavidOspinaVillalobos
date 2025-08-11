@@ -2,7 +2,7 @@
 # Hoja de Vida
 
 ## Juan David Ospina Villalobos
-**Profesión:** _Analisis y Desarrollo de software_
+**Profesión:** _Analisista y Desarrollador de software_
 
 ## 📞 Contacto
 - **Email:** [ospinavillalobosjuandavid170@gmail.com](ospinavillalobosjuandavid170@gmail.com)
